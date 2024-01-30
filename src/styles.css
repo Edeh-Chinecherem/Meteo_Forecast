@@ -82,6 +82,10 @@ main {
   font-size: 28px;
 }
 
+#forecast {
+  display: flex;
+  justify-content: space-between;
+}
 .weather-forecast {
   margin-top: 20px;
   color: #000;
